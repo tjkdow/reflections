@@ -10,4 +10,7 @@ You can commit related files together in one commit, logically binding them as a
 4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you want to make a modified game version, or add a new feature that has yet to be completed. 
 
+5) How do the diagrams help you visualize the branch structure?
+It is easy to see the parents of each commit and the reachability of things.
+
 
