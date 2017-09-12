@@ -13,4 +13,7 @@ When you want to make a modified game version, or add a new feature that has yet
 5) How do the diagrams help you visualize the branch structure?
 It is easy to see the parents of each commit and the reachability of things.
 
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging the two branches together makes it so that now the master contains all the commit histories of both branches. The codes of borht branches are combined. It's easy to see where the commit histories fall in order under the master branch in an organized manner.
+
 
