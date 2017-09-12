@@ -16,4 +16,10 @@ It is easy to see the parents of each commit and the reachability of things.
 6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging the two branches together makes it so that now the master contains all the commit histories of both branches. The codes of borht branches are combined. It's easy to see where the commit histories fall in order under the master branch in an organized manner.
 
+7) What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Merging automatically saves a lot of time and decision making when differently named functions are merged. However, manual merging is helpful to resolve conflicts, such as if two people's branches changed the same function without changing its name. Git can't decide which to pick from in this case, so we must manually resolve the conflict. Manual merging takes lots of time though.
+
+
+
 
