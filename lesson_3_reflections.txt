@@ -1,3 +1,7 @@
 When would you want to create a remote repository rather than keeping all your work local?
 You can create a remote repository to save copy of files. Some companies use git hub to store their local repositories.
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+You may not want to have saved others commits on the GitHub into your own computer. If you want to get their commits, then its better to do it manually.
+
+
