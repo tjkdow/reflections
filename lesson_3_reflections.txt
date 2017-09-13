@@ -7,4 +7,7 @@ You may not want to have saved others commits on the GitHub into your own comput
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 You can clone from a github repository to your local machine. You can fork someone else's github repository to your github repository. You can branch in your local repository on your machine. These are the instances in which you would use each different command.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+If you are offline and want to merge with a remote version, then you can do so. Saving a recent remote version locally gives you easy access to someone else's files and commit history.
+
 
