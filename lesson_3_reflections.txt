@@ -10,4 +10,10 @@ You can clone from a github repository to your local machine. You can fork someo
 What is the benefit of having a copy of the last known state of the remote stored locally?
 If you are offline and want to merge with a remote version, then you can do so. Saving a recent remote version locally gives you easy access to someone else's files and commit history.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+We could email eachother versions of our code. However, we would not be able to access code versions history easily. If both coders are really good at communicating on who's going to work on the code, then it's possible that only one final code version can be worked on between the two coders, which would avoid merging problems in github.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Use a separate branch to add in a new feature which may be breakable. Also, when working with others, it's good to make a separate branch to see the approved versions of collaborated-code.
+
 
